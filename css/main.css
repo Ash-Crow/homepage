@@ -24,6 +24,9 @@ body {
 	max-width: 520px;
 	margin: 120px auto;
 	padding: 50px;
+	border-radius: 8px; 
+	-moz-border-radius: 8px; 
+	-webkit-border-radius: 8px; 
 	background-color: #ccc;
     background: rgb(166, 166, 166); /* Fall-back for browsers that don't support rgba */
     background: rgba(200, 200, 200, .4);
